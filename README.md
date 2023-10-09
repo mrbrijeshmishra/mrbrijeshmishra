@@ -1,9 +1,9 @@
 <h1 align="left">Hey there, I'm Brijesh Mishra👋</h1>
 <h3 align="left">I'm a Web Developer and a passionate programmer who loves to code. I am creatively curious and a self learner. I love exploring new technologies and currently learning new skills.</h3>
 
-- 🔭 I’m currently working on **ShopCart**
+- 🔭 I’m currently working on **Auction Website**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **mishrabrijesh255@gmail.com**
 
