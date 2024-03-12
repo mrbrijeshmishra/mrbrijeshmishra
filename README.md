@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Auction Website**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **mishrabrijesh255@gmail.com**
 
